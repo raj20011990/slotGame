@@ -1,7 +1,7 @@
 # slot
 
 Basic slot developed in javascript using pixi.js
-functionality inclueded ways and cascading presentation.
+functionality inclueded ways and line win presentation.
 
 # Installation
 
